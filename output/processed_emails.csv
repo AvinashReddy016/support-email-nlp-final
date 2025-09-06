@@ -1,0 +1,121 @@
+sender,subject,body,sent_date,likely_urgency,subject_topic,sentiment,summary,auto_reply
+eve@startup.io,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-19 00:58:09,medium,login/account,neutral,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.","Dear eve@startup.io,
+
+Thank you for reaching out about login/account. We are reviewing your request and will get back soon.
+
+Best regards,
+Support Team"
+diana@client.co,General query about subscription,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-25 00:58:09,medium,general,neutral,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?","Dear diana@client.co,
+
+Thank you for reaching out about general. We are reviewing your request and will get back soon.
+
+Best regards,
+Support Team"
+eve@startup.io,Immediate support needed for billing error,"Hello, I wanted to understand the pricing tiers better. Could you share a detailed breakdown?",2025-08-20 12:58:09,high,billing/refund,neutral,"Hello, I wanted to understand the pricing tiers better. Could you share a detailed breakdown?","Dear eve@startup.io,
+
+We understand your issue is urgent regarding billing/refund. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+alice@example.com,Urgent request: system access blocked,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-21 21:58:09,high,login/account,neutral,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?","Dear alice@example.com,
+
+We understand your issue is urgent regarding login/account. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+eve@startup.io,Question: integration with API,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-20 04:58:09,low,integration/api,neutral,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.","Dear eve@startup.io,
+
+Thanks for contacting us. We noted your query about integration/api and will respond in due course.
+
+Best regards,
+Support Team"
+alice@example.com,Critical help needed for downtime,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-18 08:58:09,high,system/downtime,neutral,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?","Dear alice@example.com,
+
+We understand your issue is urgent regarding system/downtime. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+diana@client.co,Help required with account verification,There is a billing error where I was charged twice. This needs immediate correction.,2025-08-20 19:58:09,high,login/account,neutral,There is a billing error where I was charged twice. This needs immediate correction.,"Dear diana@client.co,
+
+We understand your issue is urgent regarding login/account. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+diana@client.co,Support needed for login issue,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,2025-08-23 06:58:09,medium,login/account,neutral,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,"Dear diana@client.co,
+
+Thank you for reaching out about login/account. We are reviewing your request and will get back soon.
+
+Best regards,
+Support Team"
+alice@example.com,General query about subscription,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-26 02:58:09,high,general,neutral,"Our servers are down, and we need immediate support. This is highly critical.","Dear alice@example.com,
+
+We understand your issue is urgent regarding general. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-21 13:58:09,medium,login/account,neutral,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.","Dear alice@example.com,
+
+Thank you for reaching out about login/account. We are reviewing your request and will get back soon.
+
+Best regards,
+Support Team"
+diana@client.co,Support needed for login issue,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-26 15:58:09,medium,login/account,neutral,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?","Dear diana@client.co,
+
+Thank you for reaching out about login/account. We are reviewing your request and will get back soon.
+
+Best regards,
+Support Team"
+alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-24 05:58:09,medium,login/account,neutral,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.","Dear alice@example.com,
+
+Thank you for reaching out about login/account. We are reviewing your request and will get back soon.
+
+Best regards,
+Support Team"
+eve@startup.io,Critical help needed for downtime,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-21 19:58:09,high,system/downtime,neutral,"Our servers are down, and we need immediate support. This is highly critical.","Dear eve@startup.io,
+
+We understand your issue is urgent regarding system/downtime. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+alice@example.com,Query about product pricing,There is a billing error where I was charged twice. This needs immediate correction.,2025-08-24 13:58:09,high,billing/refund,neutral,There is a billing error where I was charged twice. This needs immediate correction.,"Dear alice@example.com,
+
+We understand your issue is urgent regarding billing/refund. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+alice@example.com,General query about subscription,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,2025-08-26 01:58:09,medium,general,neutral,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,"Dear alice@example.com,
+
+Thank you for reaching out about general. We are reviewing your request and will get back soon.
+
+Best regards,
+Support Team"
+alice@example.com,Immediate support needed for billing error,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 07:58:09,high,billing/refund,neutral,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.","Dear alice@example.com,
+
+We understand your issue is urgent regarding billing/refund. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+charlie@partner.org,Help required with account verification,"This is urgent – our system is completely inaccessible, and this is affecting our operations.",2025-08-18 00:58:09,high,login/account,neutral,"This is urgent – our system is completely inaccessible, and this is affecting our operations.","Dear charlie@partner.org,
+
+We understand your issue is urgent regarding login/account. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+diana@client.co,Request for refund process clarification,Could you clarify the steps involved in requesting a refund? I submitted one last week but have no update.,2025-08-22 17:58:09,low,billing/refund,neutral,Could you clarify the steps involved in requesting a refund? I submitted one last week but have no update.,"Dear diana@client.co,
+
+Thanks for contacting us. We noted your query about billing/refund and will respond in due course.
+
+Best regards,
+Support Team"
+eve@startup.io,Query about product pricing,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-22 09:58:09,high,billing/refund,neutral,"Our servers are down, and we need immediate support. This is highly critical.","Dear eve@startup.io,
+
+We understand your issue is urgent regarding billing/refund. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
+bob@customer.com,Urgent request: system access blocked,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 13:58:09,high,login/account,neutral,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.","Dear bob@customer.com,
+
+We understand your issue is urgent regarding login/account. Our team is already working on it and will update you shortly.
+
+Best regards,
+Support Team"
